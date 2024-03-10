@@ -1,0 +1,14 @@
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\bin\Debug\net6.0\tapsrq2.exe
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\bin\Debug\net6.0\tapsrq2.deps.json
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\bin\Debug\net6.0\tapsrq2.runtimeconfig.json
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\bin\Debug\net6.0\tapsrq2.dll
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\bin\Debug\net6.0\tapsrq2.pdb
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\tapsrq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\tapsrq2.AssemblyInfoInputs.cache
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\tapsrq2.AssemblyInfo.cs
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\tapsrq2.csproj.CoreCompileInputs.cache
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\tapsrq2.dll
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\refint\tapsrq2.dll
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\tapsrq2.pdb
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\tapsrq2.genruntimeconfig.cache
+C:\Users\Nazani\OneDrive\Masaüstü\task2\tapsrq2\tapsrq2\obj\Debug\net6.0\ref\tapsrq2.dll

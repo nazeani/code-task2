@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tapsrq2", "tapsrq2\tapsrq2.csproj", "{AF29E9AE-A068-485A-AD45-BDE270E53C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF29E9AE-A068-485A-AD45-BDE270E53C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF29E9AE-A068-485A-AD45-BDE270E53C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF29E9AE-A068-485A-AD45-BDE270E53C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF29E9AE-A068-485A-AD45-BDE270E53C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6065DF6-564C-4BEF-ACAD-37D72F54A2BE}
+	EndGlobalSection
+EndGlobal
